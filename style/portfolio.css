@@ -1,0 +1,62 @@
+/* font family link */
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&family=Open+Sans:wght@400;700;800&display=swap');
+
+/* common shared style */
+body {
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.primary-color {
+    color: #FD6E0A;
+}
+
+.btn-primary {
+    background: #FD6E0A;
+    color: #fff;
+    padding: 18px 35px;
+    border: 0;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+/* navbar related style */
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-title {
+    color: #181818;
+    font-size: 45px;
+    font-weight: 800;
+}
+
+nav > ul {
+    display: flex;
+    align-items: center;
+
+}
+
+nav li {
+    list-style: none;
+    margin-right: 50px;
+}
+
+nav li a {
+    text-decoration: none;
+    color: #474747;
+}
+
+
+
+
+
+
+
+
+
+
+
