@@ -19,6 +19,7 @@ body {
     border-radius: 5px;
     font-size: 20px;
     font-weight: 700;
+    cursor: pointer;
 }
 
 .section-title {
@@ -179,6 +180,10 @@ main {
 
 /* Resume Section Style */
 
+.my-resume {
+    margin-bottom: 100px;
+}
+
 .resume-container {
     display: flex;
     gap: 40px;
@@ -207,3 +212,10 @@ main {
     color: #757575;
     line-height: 28px;
 }
+
+.download-cv {
+    text-align: center;
+    margin-top: 15px;
+}
+
+
