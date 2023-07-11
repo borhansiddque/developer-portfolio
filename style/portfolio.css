@@ -218,4 +218,45 @@ main {
     margin-top: 15px;
 }
 
+/* Footer Section style */
+
+.footer {
+    display: flex;
+    background-color: #FFF8F3;
+    padding: 130px 200px;
+    gap: 100px;
+}
+
+.foot-column {
+    width: 50%;
+}
+.footer h3 {
+    text-align: left;
+}
+
+.foot-column p {
+    text-align: left;
+    font-size: 14px;
+    margin-bottom: 30px;
+}
+
+.social a {
+    margin-right: 15px;
+}
+
+.contact input[type="text"], 
+.contact input[type="email"], 
+textarea {
+    display: block;
+    margin-bottom: 30px;
+    padding: 15px 20px;
+    color: #757575;
+    border-radius: 5px;
+    background: #fff;
+    border: 0;
+    width: 100%;
+}
+
+
+
 
