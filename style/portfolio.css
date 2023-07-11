@@ -69,7 +69,7 @@ nav li a {
 /* Header Related style */
 .header {
     background-color: #FFF8F3;
-    background-image: url('/images/header_bg.png'), url('/images/developer.png');
+    background-image: url('../images/header_bg.png'), url('../images/developer.png');
     background-repeat: no-repeat;
     background-position: bottom right, top left;
     background-size: 630px 360px, contain;
